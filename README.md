@@ -5,7 +5,7 @@
 
 - 🔭 대전대 컴퓨터공학과/자율주행학과 3학년 
 
-- 🌱 python/kotlin/springboot/reactjs
+- 🌱 Usage : python/kotlin/springboot/reactjs
 
 - 👯 ??????????????
 
