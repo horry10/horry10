@@ -5,12 +5,12 @@
 
 - 🔭 대전대 컴퓨터공학과/자율주행학과 3학년 
 
-- 🌱 스프링부트 배우고
+- 🌱 python/kotlin/springboot/reactjs
 
-- 👯 조편성해야되고
+- 👯 ??????????????
 
 - 💬 집에가고싶다
 - 
-- 📫 horry10@naver.com
+- 📫 Contact : horry10@naver.com
 
 
